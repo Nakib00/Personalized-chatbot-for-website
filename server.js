@@ -14,7 +14,7 @@ app.post('/ask', async (req, res) => {
   const question = req.body.question;
 
   const prompt = `
-You are a chatbot assistant for MyWebsite.com. Use only the following information:
+You are a chatbot assistant for zantechbd.com. Use only the following information:
 
 ${websiteInfo}
 

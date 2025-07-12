@@ -1,0 +1,42 @@
+// websiteInfo.js
+module.exports = `
+Welcome to zantechbd.com! We are Zan Tech, your premier destination for electronics and robotics in Bangladesh.
+
+About Zantech:
+Who we are
+Welcome to Zan Tech, your premier destination for electronics and robotics in Bangladesh. As a leading provider in the tech industry, we pride ourselves on offering a wide array of top-quality products at competitive prices, ensuring that our customers receive the best value for their investments.
+At Zan Tech, we understand the importance of staying ahead in the rapidly evolving world of technology. Our inventory is constantly updated with the latest advancements in electronics and robotics, enabling our customers to embrace the transformative power of technology with ease. Whether you are a hobbyist, a professional, or a tech enthusiast, our selection caters to all levels of expertise and interest.
+
+CONTACT US:
+Phone: +880 1894 634149
+Email: support@zantechbd.com
+Contact us page: https://zantechbd.com/contact-us/
+
+Our Products:
+All products page: https://zantechbd.com/shop/
+Complete projects: https://zantechbd.com/product-category/complete-project/
+
+Terms and Conditions:
+These terms and conditions govern your use of Zan Tech’s website and services. By accessing our website or purchasing products from us, you agree to be bound by these terms and conditions. Please read them carefully before proceeding.
+- Acceptance of Terms: By using our website or services, you acknowledge that you have read, understood, and agree to comply with these terms and conditions. If you do not agree with any part of these terms, you must not use our website or services.
+- Products and Pricing: We strive to provide accurate descriptions and pricing information for all products listed on our website. However, we reserve the right to modify product specifications, prices, and availability without prior notice. All prices are in the local currency and are inclusive of applicable taxes, unless otherwise stated.
+- Ordering and Payment: When you place an order through our website, you agree to provide accurate and complete information. Payment must be made in full at the time of purchase, and we accept various payment methods as indicated on our website. Your order is subject to acceptance by us, and we reserve the right to refuse or cancel any order for any reason.
+- Shipping and Delivery: We aim to process and ship orders promptly, but delivery times may vary depending on your location and other factors beyond our control. Shipping costs and delivery options are provided during the checkout process. We are not responsible for any delays or damages caused during transit, but we will assist you in resolving any issues with the shipping carrier to the best of our ability.
+- Returns and Exchanges: We want you to be completely satisfied with your purchase. If you are not satisfied for any reason, you may return the product(s) within [X] days of receipt for a refund or exchange, subject to our returns policy. Returned products must be in their original condition and packaging, and you are responsible for return shipping costs unless the product is defective or damaged.
+- Intellectual Property: All content, including but not limited to text, images, logos, and trademarks, on our website is the property of Zan Tech or its licensors and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute any content from our website without prior written permission.
+- Privacy Policy: We are committed to protecting your privacy and personal information. Our privacy policy outlines how we collect, use, and disclose your information when you use our website or services. By using our website or services, you consent to the collection, use, and disclosure of your information as described in our privacy policy.
+- Limitation of Liability: In no event shall Zan Tech or its affiliates be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of our website or services, including but not limited to lost profits, loss of data, or business interruption. Our total liability to you for any claim arising out of or related to these terms and conditions shall not exceed the amount paid by you for the products or services in question.
+- Governing Law: These terms and conditions shall be governed by and construed in accordance with the laws of Bangladesh. Any disputes arising out of or relating to these terms and conditions shall be subject to the exclusive jurisdiction of the courts of Bangladesh.
+- Changes to Terms: We reserve the right to update or modify these terms and conditions at any time without prior notice. Any changes will be effective immediately upon posting on our website. It is your responsibility to review these terms periodically for any updates or changes.
+
+Return Policy:
+At Zan Tech, we want you to be completely satisfied with your purchase. If you are not satisfied for any reason, you may return the product(s) within 3 days of receipt for a refund or exchange, subject to the following terms and conditions:
+- Eligibility: To be eligible for a return, the product must be unused, in its original packaging, and in the same condition as when you received it. Certain products, such as software, downloadable products, and gift cards, are not eligible for return or refund.
+- Return Process: To initiate a return, please contact our customer service team within [X] days of receiving the product(s) to obtain a Return Merchandise Authorization (RMA) number. Please clearly mark the RMA number on the outside of the package when returning the product(s) to us. You are responsible for the cost of return shipping unless the product is defective or damaged upon receipt. We recommend using a trackable shipping method to ensure the safe return of the product(s).
+- Refunds and Exchanges: Once we receive the returned product(s) and verify their eligibility, we will process your refund or exchange promptly. Refunds will be issued to the original method of payment used for the purchase, minus any applicable restocking fees or return shipping charges. If you are exchanging a product, we will ship the replacement item(s) to you as soon as possible, subject to availability.
+- Restocking Fees: A restocking fee may apply to returns of certain products, especially those that require extensive testing, refurbishing, or repackaging. The restocking fee, if applicable, will be deducted from your refund amount.
+- Damaged or Defective Products: If you receive a product that is defective or damaged upon receipt, please contact our customer service team immediately to arrange for a replacement or refund. We may require photographic evidence of the damage or defect to expedite the resolution process.
+- Non-Returnable Items: Certain items are non-returnable, including but not limited to software, downloadable products, and gift cards. Customized or personalized products may also be non-returnable unless they are defective or damaged.
+- Cancellations: You may cancel your order for a full refund before it has been shipped. Once the order has been shipped, the standard return policy applies.
+- Changes to This Return Policy: We reserve the right to update or modify this return policy at any time without prior notice. Any changes will be effective immediately upon posting on our website. It is your responsibility to review this policy periodically for any updates or changes.
+`;
