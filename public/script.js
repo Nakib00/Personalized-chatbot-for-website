@@ -1,6 +1,16 @@
 function toggleChat() {
   const chat = document.getElementById("chatWidget");
-  chat.style.display = chat.style.display === "flex" ? "none" : "flex";
+  if (chat.style.display === "flex") {
+    chat.classList.remove("open");
+    setTimeout(() => {
+      chat.style.display = "none";
+    }, 400);
+  } else {
+    chat.style.display = "flex";
+    setTimeout(() => {
+      chat.classList.add("open");
+    }, 10);
+  }
 }
 
 async function ask() {
@@ -16,9 +26,10 @@ async function ask() {
 
   // Show typing indicator
   const typingEl = document.createElement("div");
-  typingEl.className = "chat-message bot typing";
+  typingEl.className = "chat-message bot"; // Wrapper div
   typingEl.id = "typingIndicator";
-  typingEl.innerHTML = `<span>.</span><span>.</span><span>.</span>`;
+  // The animated element is inside a standard message bubble
+  typingEl.innerHTML = `<span><div class="typing-animation"></div></span>`;
   chatBody.appendChild(typingEl);
   chatBody.scrollTop = chatBody.scrollHeight;
 
